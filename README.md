@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wakanda
 
 ## Build Setup
@@ -18,3 +19,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# wakanda-girls
+wakanda girls websites
+>>>>>>> e0a2891baea42fa4ab44f173b83a448a582058f9
